@@ -1,4 +1,6 @@
 # Polaron coupled carrier dynamics
+## Liming Liu
+## INPC
 ---
 # Motivation
 - In TiO~2~ or similar polarized photocatalysis materials, polaron is commonly presented.
