@@ -14,3 +14,10 @@
 ![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxus7yhh04j31400u0794.jpg)
 
 DOS showed that the LUMO of Zr is burried in the conduction band of TiO2.
+
+---
+### +1e DOS
+![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxvmr5m9mpj31400u0797.jpg)
+---
+#### +1e polaron state
+![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxvmzk0ej6j30x50nr7aj.jpg)
