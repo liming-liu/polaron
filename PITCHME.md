@@ -24,11 +24,11 @@
 
 +++
 #### Polaron states
-@snap[west]
+@snap[west sidebar]
 ![lower gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 @snapend
 
-@snap[east]
+@snap[east sidebar]
 ![higher gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxx3lwqmr1j30ue0ns75b.jpg)
 @snapend
 
