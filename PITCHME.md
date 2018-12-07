@@ -1,6 +1,6 @@
 # Polaron coupled carrier dynamics
 
-@color[blue](**Liming Liu)<sup>[1]</sup>,
+@color[blue](Liming Liu)<sup>[1]</sup>,
 @color[orange](Jin Zhao)<sup>[2]</sup>
 
 <sup>[1]</sup>Institute of Nuclear Physics and Chemistry
