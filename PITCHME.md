@@ -23,18 +23,13 @@
 ![dos](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lxey8gj31400u0gqn.jpg)
 
 +++
-#### Polaron states
-@snap[west sidebar]
-![lower gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
-@snapend
+#### Lower Polaron state
+![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
 
-@snap[east sidebar]
-![higher gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxx3lwqmr1j30ue0ns75b.jpg)
-@snapend
+---
+#### Higher polaron state
+![higher gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 
-News:
-1. Surface gap state is lower in energy than sub surface gap state;
-2. Sub-surface gap state is delocalized.
 
 +++
 ### Zr substitution
