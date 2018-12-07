@@ -46,7 +46,7 @@ DOS showed that the LUMO of Zr is burried in the conduction band of TiO2.
 #### +1e polaron state
 ![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxvmzk0ej6j30x50nr7aj.jpg)
 
-++++
++++
 #### Zr + Ov surface: DOS
 ![dos_Zr_Ov](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxvw8ybb3qj31400u078s.jpg)
 
