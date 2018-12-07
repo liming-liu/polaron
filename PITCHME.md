@@ -47,6 +47,26 @@ DOS showed that the LUMO of Zr is burried in the conduction band of TiO2.
 ![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxvmzk0ej6j30x50nr7aj.jpg)
 
 ---
+### V subsititution
+
++++
+#### DOS
+![dos](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxw7r7ilm2j31400u07au.jpg)
+
++++
+#### Polaron state
+- iso surface for charge density: 0.005
+
+![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxw7r806slj31kw0srabo.jpg)
+
+The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital hybridized by O 2p orbitals. V-O gap state is deeper than Ti_3+ gap state. 
+
++++
+##### Question
+1. Will the depth of gap state affect the carrier dynamics?
+2. Also the mass difference would induce different phonon modes which may affect the carrier dynamics?
+
+---
 ## Excited electron dynamics on clean reduced TiO2(110) surface
 
 +++
