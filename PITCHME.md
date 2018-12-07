@@ -22,9 +22,15 @@
 #### DOS
 ![dos](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lxey8gj31400u0gqn.jpg)
 
+Note:
+- 
+
 +++
 #### Lower Polaron state
 ![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
+
+Note:
+- Univeral isosurface: 0.005
 
 +++
 #### Higher polaron state
