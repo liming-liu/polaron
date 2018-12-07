@@ -15,7 +15,7 @@
 ---
 ## Polaron configuration
 
-+++
+---
 ### Primitive surface with BBOV
 
 +++
@@ -26,12 +26,12 @@
 #### Lower Polaron state
 ![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
 
----
++++
 #### Higher polaron state
 ![higher gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 
 
-+++
+---
 ### Zr substitution
 @[title] Density of states
 ![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxus7yhh04j31400u0794.jpg)
