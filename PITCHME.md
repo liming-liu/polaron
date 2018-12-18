@@ -40,6 +40,9 @@ Note:
 
 ---
 ### Zr substitution
+
++++
+#### DOS
 @[title] Density of states
 ![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxus7yhh04j31400u0794.jpg)
 
@@ -96,5 +99,6 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 #### E(t)
 ![E(t)](http://wx3.sinaimg.cn/mw690/006VaKrygy1fy56furirpj31400u0wow.jpg)
 
++++
 #### E(t) FFT
 ![fft](http://wx3.sinaimg.cn/mw690/006VaKrygy1fyapplyiqvj31400u0q81.jpg)
