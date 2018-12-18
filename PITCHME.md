@@ -3,7 +3,7 @@
 @color[blue](Liming Liu)<sup>[1]</sup>,
 @color[orange](Jin Zhao)<sup>[2]</sup>
 
-<sup>[1]</sup>@color[bule](Institute of Nuclear Physics and Chemistry)
+<sup>[1]</sup>@color[blue](Institute of Nuclear Physics and Chemistry)
 
 <sup>[2]</sup>@color[orange](University of Science and Technology of China)
 
