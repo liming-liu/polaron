@@ -104,5 +104,9 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 ![fft](http://wx3.sinaimg.cn/mw690/006VaKrygy1fyapplyiqvj31400u0q81.jpg)
 
 +++
+#### Initial population of excited electrons
+To determin the initial configuration of excited electronic population, the transition dipople moments tween valence band energy levels and conduction band energy level were calculated at first.
+
++++
 #### electron carrier pathways
 ![e](http://wx3.sinaimg.cn/mw690/006VaKrygy1fydbrshs9qj31400u00vm.jpg)
