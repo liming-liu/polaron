@@ -106,6 +106,7 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 +++
 #### Initial population of excited electrons
 ![ini_pop](http://wx3.sinaimg.cn/mw690/006VaKrygy1fyy1taneexj30hs0dc74h.jpg)
+
 TDM for bottom 40 of conduction band orbitals from top 40 of valence band orbitals.
 
 +++
