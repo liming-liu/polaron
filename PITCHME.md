@@ -94,21 +94,35 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 
 +++
 #### Ground state
-
-+++
-#### E(t)
-![E(t)](http://wx3.sinaimg.cn/mw690/006VaKrygy1fy56furirpj31400u0wow.jpg)
-
-+++
-#### E(t) FFT
-![fft](http://wx3.sinaimg.cn/mw690/006VaKrygy1fyapplyiqvj31400u0q81.jpg)
-
 +++
 #### Initial population of excited electrons
 ![ini_pop](http://wx3.sinaimg.cn/mw690/006VaKrygy1fyy1taneexj30hs0dc74h.jpg)
 
-TDM for bottom 40 of conduction band orbitals from top 40 of valence band orbitals.
++++
+#### E(t) 100K
+![E(t)](http://wx3.sinaimg.cn/mw690/006VaKrygy1fy56furirpj31400u0wow.jpg)
 
 +++
-#### electron carrier pathways
-![e](http://wx3.sinaimg.cn/mw690/006VaKrygy1fydbrshs9qj31400u00vm.jpg)
+#### FFT 100K
+![fft](http://wx4.sinaimg.cn/mw690/006VaKryly1fz5xqs67yij31400u0grn.jpg)
+
++++
+#### pop 100K
+![e+9](http://wx3.sinaimg.cn/mw690/006VaKrygy1fydbrshs9qj31400u00vm.jpg)
+
+
++++
+#### E(t) 300K
+![E](http://wx1.sinaimg.cn/mw690/006VaKryly1fz5y1xjbb3j31400u0dvt.jpg)
+
++++
+#### FFT 300K
+![fft](http://wx3.sinaimg.cn/mw690/006VaKryly1fz5xqycktdj31400u00z4.jpg)
+
+
+TDM for bottom 40 of conduction band orbitals from top 40 of valence band orbitals.
+
+
++++
+#### pop 300K
+![pop](http://wx3.sinaimg.cn/mw690/006VaKryly1fz5y2gekbdj31400u0q5u.jpg)
