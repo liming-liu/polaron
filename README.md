@@ -1,4 +1,4 @@
-# polaron is a tough project? Try to answer!
+# polaron is a tough project? Try to answer it with 50% concentration!
 ## Motivation
 This work belongs to the project of coupling between carrier dynamics and quasiparticles. Here we focus on the influence of polaron on the carrier dynamics on TiO2(110) surface in the presense of molecular adsorption.
 ## Method
