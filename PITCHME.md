@@ -89,11 +89,25 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 1. Will the depth of gap state affect the carrier dynamics?
 2. Also the mass difference would induce different phonon modes which may affect the carrier dynamics?
 
+
+---
+## Excited electron dynamics on clean stoichiometric TiO2(110) surface
+
++++
+#### TDM
+
+
++++
+#### E 100K
+![E](http://wx4.sinaimg.cn/mw690/006VaKrygy1fz8j7d0mzaj31400u0dul.jpg)
+
++++
+#### pop 100K
+![pop](http://wx1.sinaimg.cn/mw690/006VaKrygy1fz7oox1pa3j31400u0diy.jpg)
+
 ---
 ## Excited electron dynamics on clean reduced TiO2(110) surface
 
-+++
-#### Ground state
 +++
 #### Initial population of excited electrons
 ![ini_pop](http://wx3.sinaimg.cn/mw690/006VaKrygy1fyy1taneexj30hs0dc74h.jpg)
