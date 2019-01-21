@@ -7,3 +7,5 @@ Time-domain FSSH-NAMD calculations were carried out for various scenaries to exp
 1. Stoichiometric TiO2(110) surface has a e-h recombination time longer than ?
 2. Small polaron coupled carrier dyanmics
 
+## log
+Today is 21th, Jan. 2019
