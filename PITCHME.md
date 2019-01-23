@@ -9,9 +9,8 @@
 
 ---
 ## Motivation
-- In TiO2 or similar polarized photocatalysis materials, polaron is commonly presented.
-- The presence of polaron would affect the realaxation pathways of photo induced carriers.
-- At the mean time, the state of polaron would be altered.
+- Quasi particals (phonon, exciton, polaron, Cooper-pair,...) are significantly important to carrier dynamics in various functional materials.
+- The polaronic nature of excess charge in TiO2 would affect the relaxation pathways of photo-induced carriers. The dymics of carriers is essential to improve the performance of functional materials.
 
 ---
 ## Polaron configuration
@@ -49,12 +48,16 @@ Note:
 DOS showed that the LUMO of Zr is burried in the conduction band of TiO2.
 
 +++
-### +1e DOS
+### electron charged DOS
 ![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxvmr5m9mpj31400u0797.jpg)
 
+The excess electron formed a deep gap state which is similar to the charged stoichiomatric TiO2(110) surface.
+
 +++
-#### +1e polaron state
+#### excess electron induced polaron state
 ![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxvmzk0ej6j30x50nr7aj.jpg)
+
+The excess electron is localized on sub-surface Ti 3d orbitals, and the is no obvious lattice distortion around substitution cite. So Zr substitution can not configure surface polaron state.
 
 +++
 #### Zr + Ov surface: DOS
@@ -121,7 +124,7 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 
 +++
 #### FFT 100K
-![fft](http://wx4.sinaimg.cn/mw690/006VaKryly1fz5xqs67yij31400u0grn.jpg)
+![fft](http://wx1.sinaimg.cn/mw690/006VaKrygy1fz686tl8ttj31400u078l.jpg)
 
 +++
 #### pop 100K
@@ -134,7 +137,7 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 
 +++
 #### FFT 300K
-![fft](http://wx3.sinaimg.cn/mw690/006VaKryly1fz5xqycktdj31400u00z4.jpg)
+![fft](http://wx4.sinaimg.cn/mw690/006VaKrygy1fz686kigh4j31400u0n2p.jpg)
 
 
 TDM for bottom 40 of conduction band orbitals from top 40 of valence band orbitals.
