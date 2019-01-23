@@ -9,8 +9,8 @@
 
 ---
 ## Motivation
-- Quasi particals (phonon, exciton, polaron, Cooper-pair,...) are significantly important to carrier dynamics in various functional materials.
-- The polaronic nature of excess charge in TiO2 would affect the relaxation pathways of photo-induced carriers. The dymics of carriers is essential to improve the performance of functional materials.
+- Quasi particals (phonon, exciton, polaron, Cooper-pair,...) are closely coupled to carrier dynamics in various functional materials.
+- The polaronic nature of excess charge in TiO2 would affect the relaxation pathways of photo-induced carriers. The dynamics of carriers is essential to improve the performance of functional materials.
 
 ---
 ## Polaron configuration
@@ -22,12 +22,15 @@
 #### DOS
 ![dos](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lxey8gj31400u0gqn.jpg)
 
+@size[smaller](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
 Note:
 - 
 
 +++
 #### Lower Polaron state
 ![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
+
+@size[smaller](The lower gap state localized on the sub-surface Ti bellow sufacial five-coordinate Ti.)
 
 Note:
 - Univeral isosurface: 0.005
@@ -36,10 +39,13 @@ Note:
 #### Higher polaron state
 ![higher gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 
-
+@size[smaller](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
 ---
 ### Zr substitution
 
+Motivation:
+
+@size[smaller](Zr lies right bellow Ti. Zr has similar valence shell structure while has larger atomic size, and Zr-O bond length (2.05 ~ 2.2 A) is longer than TiO2 ( 1.91 ~ 2.05 A).)
 +++
 #### DOS
 @[title] Density of states
