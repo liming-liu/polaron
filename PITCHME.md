@@ -22,7 +22,7 @@
 #### DOS
 ![dos](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lxey8gj31400u0gqn.jpg)
 
-@size[large](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
+@size[x-large](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
 Note:
 - 
 
@@ -39,31 +39,31 @@ Note:
 #### Higher polaron state
 ![higher gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 
-@size[xx-large](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
+@size[x-large](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
 ---
 ### Zr substitution
 
 Motivation:
 
-@size[medium](Zr lies right bellow Ti. Zr has similar valence shell structure while has larger atomic size, and Zr-O bond length (2.05 ~ 2.2 A) is longer than TiO2 ( 1.91 ~ 2.05 A).)
+@size[x-large](Zr lies right bellow Ti. Zr has similar valence shell structure while has larger atomic size, and Zr-O bond length [2.05 ~ 2.2 A] is longer than TiO2 [1.91 ~ 2.05 A].)
 +++
 #### DOS
 @[title] Density of states
 ![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxus7yhh04j31400u0794.jpg)
 
-DOS showed that the LUMO of Zr is burried in the conduction band of TiO2.
+@size[x-large](DOS showed that the LUMO of Zr is burried in the conduction band of TiO2.)
 
 +++
 ### electron charged DOS
 ![DOS](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxvmr5m9mpj31400u0797.jpg)
 
-The excess electron formed a deep gap state which is similar to the charged stoichiomatric TiO2(110) surface.
+@size[x-large](The excess electron formed a deep gap state which is similar to the charged stoichiomatric TiO2(110) surface.)
 
 +++
 #### excess electron induced polaron state
 ![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxvmzk0ej6j30x50nr7aj.jpg)
 
-The excess electron is localized on sub-surface Ti 3d orbitals, and the is no obvious lattice distortion around substitution cite. So Zr substitution can not configure surface polaron state.
+@size[large](The excess electron is localized on sub-surface Ti 3d orbitals, and the is no obvious lattice distortion around substitution cite. So Zr substitution can not configure surface polaron state.)
 
 +++
 #### Zr + Ov surface: DOS
@@ -73,25 +73,33 @@ The excess electron is localized on sub-surface Ti 3d orbitals, and the is no ob
 #### Zr + Ov surface: Lower PS
 ![gsL_Zr_Ov](http://wx4.sinaimg.cn/mw690/006VaKrygy1fxvw901espj31jd0u0n09.jpg)
 
+@size[x-large](Using Ov induce 2 excess electron would contribute two gap states)
+
 +++
 #### Zr + Ov surface: Higher PS
 ![gsH_Zr_Ov](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxvw8z6vwrj31jd0u0gp4.jpg)
 
+@size[x-large](The lower gap state localizes on sub-surface Ti just like pure reduced surface.)
 
+@size[x-large](The higher gap state has more contribution from Zr than Ti)
 ---
 ### V subsititution
+
+@size[x-large](V has one more electron than Ti and V-O bond length is a little larger? than Ti-O bond.)
 
 +++
 #### DOS
 ![dos](http://wx2.sinaimg.cn/mw690/006VaKrygy1fxw7r7ilm2j31400u07au.jpg)
 
+@size[x-large](The excess electron from V forms a localized deep gap state.)
+
 +++
 #### Polaron state
-- iso surface for charge density: 0.005
+
 
 ![gs](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxw7r806slj31kw0srabo.jpg)
 
-The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital hybridized by O 2p orbitals. V-O gap state is deeper than Ti_3+ gap state. 
+@size[x-large](The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital hybridized by O 2p orbitals. V-O gap state is deeper than Ti_3+ gap state. )
 
 +++
 ##### Question
@@ -103,20 +111,22 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 ## Excited electron dynamics on clean stoichiometric TiO2(110) surface
 
 +++
-#### TDM
-
-
-+++
 #### E 100K
 ![E](http://wx4.sinaimg.cn/mw690/006VaKrygy1fz8j7d0mzaj31400u0dul.jpg)
 
+@size[x-large](Energy levels oscillates as specified phonon modes being activiated.)
 +++
-#### pop 100K
+#### pop 100K e
 ![pop_CBM2VB](http://wx2.sinaimg.cn/mw690/006VaKrygy1fzgrybtb3sj31400u0ace.jpg)
+
+#### pop 100K h
+![pop](http://wx4.sinaimg.cn/mw690/006VaKrygy1fzh9y0ddocj30hz0djwfn.jpg)
 
 +++
 #### Larger basis
 ![pop_CBM2top10VBM](http://wx4.sinaimg.cn/mw690/006VaKrygy1fzgry449ytj31400u0wgp.jpg)
+
+
 ---
 ## Excited electron dynamics on clean reduced TiO2(110) surface
 
@@ -133,9 +143,12 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 ![fft](http://wx1.sinaimg.cn/mw690/006VaKrygy1fz686tl8ttj31400u078l.jpg)
 
 +++
-#### pop 100K
-![e+9](http://wx3.sinaimg.cn/mw690/006VaKrygy1fydbrshs9qj31400u00vm.jpg)
+#### pop 100K e
+![e+9](http://wx1.sinaimg.cn/mw690/006VaKrygy1fzh9xh1oytj31400u0dla.jpg)
 
++++
+#### pop 100K h
+![pop_100K_h](http://wx4.sinaimg.cn/mw690/006VaKrygy1fzh9xvmi2zj31400u00yh.jpg)
 
 +++
 #### E(t) 300K
@@ -146,12 +159,16 @@ The gap states is 1.5 eV bellow CBM, the gap state is composed by Z 3d orbital h
 ![fft](http://wx4.sinaimg.cn/mw690/006VaKrygy1fz686kigh4j31400u0n2p.jpg)
 
 
-TDM for bottom 40 of conduction band orbitals from top 40 of valence band orbitals.
-
++++
+#### pop 300K e
+![pop](http://wx4.sinaimg.cn/mw690/006VaKrygy1fzh9y93zo7j31400u0qd7.jpg)
 
 +++
-#### pop 300K
-![pop](http://wx3.sinaimg.cn/mw690/006VaKryly1fz5y2gekbdj31400u0q5u.jpg)
+#### pop 300K h
+![pop](http://wx3.sinaimg.cn/mw690/006VaKrygy1fzh9yt1vycj31400u0amy.jpg)
 
-1. Why would electron decay so fast?
-2. Why end to bottom?
++++
+#### Questions
+1. Temperature dependence of polaron affected carrier dynamics?
+2. Using polaron configuration methods to investigate its influence on carrier dynamics
+3. Consider in surfacial adsorption.
