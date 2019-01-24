@@ -22,7 +22,7 @@
 #### DOS
 ![dos](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lxey8gj31400u0gqn.jpg)
 
-@size[small](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
+@size[medium](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
 Note:
 - 
 
@@ -30,7 +30,7 @@ Note:
 #### Lower Polaron state
 ![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
 
-@size[small](The lower gap state localized on the sub-surface Ti bellow sufacial five-coordinate Ti.)
+@size[medium](The lower gap state localized on the sub-surface Ti bellow sufacial five-coordinate Ti.)
 
 Note:
 - Univeral isosurface: 0.005
@@ -39,13 +39,13 @@ Note:
 #### Higher polaron state
 ![higher gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 
-@size[small](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
+@size[medium](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
 ---
 ### Zr substitution
 
 Motivation:
 
-@size[small](Zr lies right bellow Ti. Zr has similar valence shell structure while has larger atomic size, and Zr-O bond length (2.05 ~ 2.2 A) is longer than TiO2 ( 1.91 ~ 2.05 A).)
+@size[medium](Zr lies right bellow Ti. Zr has similar valence shell structure while has larger atomic size, and Zr-O bond length (2.05 ~ 2.2 A) is longer than TiO2 ( 1.91 ~ 2.05 A).)
 +++
 #### DOS
 @[title] Density of states
