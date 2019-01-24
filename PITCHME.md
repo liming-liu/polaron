@@ -22,7 +22,7 @@
 #### DOS
 ![dos](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lxey8gj31400u0gqn.jpg)
 
-@size[medium](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
+@size[large](Two excess electron due to the presence of Ov contributes to two gap states with the higher one located 0.8eV bellow CBM and the lower one 1.6 eV bellow CBM.)
 Note:
 - 
 
@@ -30,7 +30,7 @@ Note:
 #### Lower Polaron state
 ![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
 
-@size[medium](The lower gap state localized on the sub-surface Ti bellow sufacial five-coordinate Ti.)
+@size[x-large](The lower gap state localized on the sub-surface Ti bellow sufacial five-coordinate Ti.)
 
 Note:
 - Univeral isosurface: 0.005
@@ -39,7 +39,7 @@ Note:
 #### Higher polaron state
 ![higher gap state](http://wx1.sinaimg.cn/mw690/006VaKrygy1fxx3lw8b16j30ue0ns75b.jpg)
 
-@size[medium](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
+@size[xx-large](The higher gap state is less localized compared to lower gap states. The charge density mainly localized on two Ti adjacent to Ov.)
 ---
 ### Zr substitution
 
