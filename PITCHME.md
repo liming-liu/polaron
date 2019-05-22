@@ -29,7 +29,7 @@ Note:
 +++
 #### Lower Polaron state
 ![lower gap state](http://wx3.sinaimg.cn/mw690/006VaKrygy1fxy5l3pkyhj31jd0u0ac2.jpg)
-
+<center><img src="http://wx1.sinaimg.cn/mw690/006VaKryly1g1ik8vpth2j31400u077e.jpg" width="33%" /><img src="http://wx2.sinaimg.cn/mw690/006VaKrygy1g1afjqsosfj31400u0ads.jpg" width="33%" /><img src="http://wx4.sinaimg.cn/mw690/006VaKryly1g1ikf4pwj6j31400u00vy.jpg" width="33%" /></center>
 @size[x-large](The lower gap state localized on the sub-surface Ti bellow sufacial five-coordinate Ti.)
 
 Note:
